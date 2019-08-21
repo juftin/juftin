@@ -81,5 +81,5 @@ alias bindmr="\
   -L 7878:juftin.ddns.net:7878 \
   juftin@juftin.ddns.net -p 42069"
 
-  # TEST
-  alias test="echo test"
+# TEST
+alias test="echo test"
