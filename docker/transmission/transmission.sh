@@ -1,0 +1,28 @@
+docker run --cap-add=NET_ADMIN -d \
+        -v /home/juftin/Documents/Media/Downloads/:/data/incomplete \
+        -v /media/juftin/NAS/Downloads/:/data/completed \
+        -v /media/juftin/NAS/Plex/Movies/:/data/movies \
+        -v /media/juftin/NAS/Plex/'TV Shows'/:/data/tv_shows \
+        -v /home/juftin/docker/transmission/transmission-home/:/data/transmission-home \
+        -v /home/juftin/docker/transmission/Watch:/data/watch \
+        -v /etc/localtime:/etc/localtime:ro \
+        -e PUID=1000 \
+        -e PGID=1000 \
+        -e CREATE_TUN_DEVICE=true \
+        -e OPENVPN_PROVIDER=NORDVPN \
+        -e OPENVPN_USERNAME=Juftin@gmail.com \
+        -e OPENVPN_PASSWORD=L9lBT7PnG3TK \
+        -e WEBPROXY_ENABLED=false \
+        -e LOCAL_NETWORK=192.168.0.0/24 \
+        -e TRANSMISSION_IDLE_SEEDING_LIMIT=0 \
+        -e TRANSMISSION_IDLE_SEEDING_LIMIT_ENABLED=true \
+        -e TRANSMISSION_UPLOAD_LIMIT=200 \
+        -e TRANSMISSION_UPLOAD_LIMIT_ENABLED=1 \
+        --log-driver json-file \
+        --log-opt max-size=10m \
+        --dns 8.8.8.8 \
+        --dns 8.8.4.4 \
+        --restart unless-stopped \
+        --name=transmission \
+        -p 9091:9091 \
+        haugene/transmission-openvpn
