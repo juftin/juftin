@@ -81,5 +81,8 @@ alias bindmr="\
   -L 7878:juftin.ddns.net:7878 \
   juftin@juftin.ddns.net -p 42069"
 
+#DOCKER
+alias dbash='function _dbash(){ docker exec -it $1 bin/bash; };_dbash'
+
 # TEST
 alias test="echo test"
