@@ -51,6 +51,14 @@ family to request new content be downloaded, services to find and securely downl
 movies and shows, and underneath it all a Plex media server to support playback of the content
 anywhere and on any device.
 
+### [FastApp](https://github.com/juftin/fastapp)
+
+`FastApp` is a wrapper around FastAPI for ML Powered Services 🧠. With just a few lines of code
+you can stand up auto-documenting REST APIs that power Machine Learning Services and deploy them as
+production hardened endpoints. Leveraging `Pydantic` and `FastAPI`, FastApp can get you up and
+running in minutes. Try it out: `pip install fastapp[example]`
+&& `fastapp serve-debug fastapp.app.example:app` && `open http://localhost:8080/docs`
+
 ### [lunchable](https://github.com/juftin/lunchable)
 
 [Lunch Money](https://lunchmoney.app/) is a "delightfully simple personal finance & budgeting app" -
