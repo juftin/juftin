@@ -3,7 +3,7 @@
   width="250" height="250"  alt="juftin logo">
 </p>
 
-## Hey, I'm juftin (Justin Flannery) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+## Hey, I'm juftin (Justin Flannery) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 I'm a ~~Software and Data Engineer~~ Machine Learning Operations Engineer based out of Denver, Colorado, USA.
 
@@ -24,7 +24,7 @@ skiing in Colorado, or soaking up the sun at a Bluegrass concert.
 >
 >   – The Zen of Python
 
-## What I'm Working On <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30px">
+## What I'm Working On <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30">
 
 In my free time I try to build tools and software that reflect my personal interests like Camping,
 sharing memories with my family, finding ways to monitor spending and increase savings, or just
