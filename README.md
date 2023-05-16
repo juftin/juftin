@@ -40,12 +40,12 @@ You can install camply easily via `pip install camply`.
 
 ### [browsr](https://github.com/juftin/browsr)
 
-`browsr` is a command line TUI application that empowers you to browse the contents of
-local and remote directories. You can quickly navigate through directories and peek at
-files whether they're hosted locally, in AWS S3, Google Cloud Storage, or Azure Blob Storage.
-View code files with syntax highlighting, format JSON files, render images, 
-convert CSV and Parquet files to datatables and more. Get going with all of `browsr`'s 
-superpowers with `pipx install "browsr[all]"`.
+`browsr` 🗂️ is a pleasant file explorer in your terminal. It's a command line TUI application
+that empowers you to browse the contents of local and remote directories with your keyboard or 
+mouse. You can quickly navigate through directories and peek at files whether they're hosted
+locally, in AWS S3, Google Cloud Storage, or Azure Blob Storage. View code files with syntax 
+highlighting, format JSON files, render images, convert CSV and Parquet files to datatables
+and more. Get going with all of `browsr`'s superpowers with `pipx install "browsr[all]"`.
 
 ### [lunchable](https://github.com/juftin/lunchable)
 
