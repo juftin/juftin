@@ -8,9 +8,9 @@
 I'm a sofware engineer and Python developer based out of Denver, Colorado, USA.
 
 My work with data has spanned from being on the front lines building out Tableau reports to
-architecting machine learning recommendation pipelines. Currently, I work as part of an software engineering team
+architecting machine learning recommendation systems. Currently, I work as part of an software engineering team
 looking to make heart attacks a thing of the past using machine learing. I'm very interested in machine learning operations, 
-big data engineering, distributed systems, and everything open source (especially the Apache projects).
+big data engineering, distributed systems, and everything open source.
 
 When I'm not coding you can find me camping with my partner and our two dogs, catching a bluebird day
 skiing in Colorado, or soaking up the sun at a bluegrass concert.
@@ -37,6 +37,15 @@ the USA) to continuously check for cancellations and availabilities to pop up. O
 becomes available, `camply` sends you a notification to book your spot!
 
 You can install camply easily via `pip install camply`.
+
+### [browsr](https://github.com/juftin/browsr)
+
+`browsr` is a command line TUI application that empowers you to browse the contents of
+local and remote directories. You can quickly navigate through directories and peek at
+files whether they're hosted locally, in AWS S3, Google Cloud Storage, or Azure Blob Storage.
+View code files with syntax highlighting, format JSON files, render images, 
+convert CSV and Parquet files to datatables and more. Get going with all of `browsr`'s 
+superpowers with `pipx install "browsr[all]"`.
 
 ### [lunchable](https://github.com/juftin/lunchable)
 
