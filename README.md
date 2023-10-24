@@ -30,7 +30,7 @@ GitHub repositories and some details about the projects.
 
 ### [camply](https://github.com/juftin/camply)
 
-[![PyPI](https://img.shields.io/pypi/v/camply?color=blue&label=⛺️camply)](https://github.com/juftin/camply)
+[![PyPI](https://img.shields.io/pypi/v/camply?color=blue&label=⛺️%20camply)](https://github.com/juftin/camply)
 [![GitHub Repo stars](https://img.shields.io/github/stars/juftin/camply)](https://github.com/juftin/camply)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/camply)](https://pypi.python.org/pypi/camply/)
 
@@ -44,7 +44,7 @@ You can install camply easily via `pip install camply`.
 
 ### [browsr](https://github.com/juftin/browsr)
 
-[![PyPI](https://img.shields.io/pypi/v/browsr?color=blue&label=📄browsr)](https://github.com/juftin/browsr)
+[![PyPI](https://img.shields.io/pypi/v/browsr?color=blue&label=📄%20browsr)](https://github.com/juftin/browsr)
 [![GitHub Repo stars](https://img.shields.io/github/stars/juftin/browsr)](https://github.com/juftin/browsr)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/browsr)](https://pypi.python.org/pypi/browsr/)
 
@@ -56,7 +56,7 @@ highlighting, format JSON files, render images, convert CSV and Parquet files to
 and more. Get going with all of `browsr`'s superpowers with `pipx install "browsr[all]"`.
 
 ### [llm-term](https://github.com/juftin/llm-term)
-[![PyPI](https://img.shields.io/pypi/v/llm-term?color=blue&label=🤖llm-term)](https://github.com/juftin/llm-term)
+[![PyPI](https://img.shields.io/pypi/v/llm-term?color=blue&label=🤖%20llm-term)](https://github.com/juftin/llm-term)
 [![GitHub Repo stars](https://img.shields.io/github/stars/juftin/llm-term)](https://github.com/juftin/llm-term)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/llm-term)](https://pypi.python.org/pypi/llm-term/)
 
@@ -69,7 +69,7 @@ with OpenAI's GPT models in a more hands-on, streamlined manner. Get started wit
 
 ### [lunchable](https://github.com/juftin/lunchable)
 
-[![PyPI](https://img.shields.io/pypi/v/lunchable?color=blue&label=🍱lunchable)](https://github.com/juftin/lunchable)
+[![PyPI](https://img.shields.io/pypi/v/lunchable?color=blue&label=🍱%20lunchable)](https://github.com/juftin/lunchable)
 [![GitHub Repo stars](https://img.shields.io/github/stars/juftin/lunchable)](https://github.com/juftin/lunchable)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/lunchable)](https://pypi.python.org/pypi/lunchable/)
 
