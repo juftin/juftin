@@ -44,7 +44,7 @@ You can install camply easily via `pip install camply`.
 
 ### [browsr](https://github.com/juftin/browsr)
 
-[![PyPI](https://img.shields.io/pypi/v/browsr?color=blue&label=📄%20browsr)](https://github.com/juftin/browsr)
+[![PyPI](https://img.shields.io/pypi/v/browsr?color=blue&label=🗂️%20browsr)](https://github.com/juftin/browsr)
 [![GitHub Repo stars](https://img.shields.io/github/stars/juftin/browsr)](https://github.com/juftin/browsr)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/browsr)](https://pypi.python.org/pypi/browsr/)
 
