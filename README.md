@@ -82,7 +82,7 @@ complete coverage of all endpoints and plugins to other external services.
 My personal cookiecutter template 🚀, might be your new secret weapon for Python projects. 
 It's an all-in-one development toolkit that operates seamlessly in your coding environment. 
 Imagine managing your project's virtual environment and development tools with `hatch`, 
-effortlessly formatting your code with `black`, linting your masterpiece with `ruff`, 
+effortlessly formatting and linting your masterpiece with `ruff`, 
 and checking types using `mypy`. Literally all of the CI/CD details have been taken care of.
 Unleash the full potential of your Python project with juftin's personal cookiecutter 
 template. Get started with `cookiecutter gh:juftin/cookiecutter-python`.
