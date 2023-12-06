@@ -66,6 +66,18 @@ with GPT models. It enhances the user experience by streaming responses as rich 
 code-formatting and syntax highlighting. This makes `llm-term` a powerful tool for anyone looking to interact 
 with OpenAI's GPT models in a more hands-on, streamlined manner. Get started with `pipx install llm-term`.
 
+### [hatch-pip-compile](https://github.com/juftin/hatch-pip-compile)
+
+[![PyPI](https://img.shields.io/pypi/v/hatch-pip-compile?color=blue&label=🥚%20hatch-pip-compile)](https://github.com/juftin/hatch-pip-compile)
+[![GitHub Repo stars](https://img.shields.io/github/stars/juftin/hatch-pip-compile)](https://github.com/juftin/hatch-pip-compile)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/hatch-pip-compile)](https://pypi.python.org/pypi/hatch-pip-compile/)
+
+`hatch-pip-compile` is the missing lockfile capability for the [hatch](https://github.com/pypa/hatch) Python
+project tool 🥚. It's a hatch plugin that connects your hatch-managed virtual environment to a lockfile
+managed with [pip-compile](https://githun.com/jazzband/pip-tools). The plugin detects whether your
+environment or lockfile is out to date and automatically syncs them when needed - and it's fast!
+Get reproducible environments for your Python projects today with
+[hatch-pip-compile](https://github.com/juftin/hatch-pip-compile)
 
 ### [lunchable](https://github.com/juftin/lunchable)
 
