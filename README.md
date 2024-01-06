@@ -59,11 +59,12 @@ and more. Get going with all of `browsr`'s superpowers with `pipx install "brows
 [![GitHub Repo stars](https://img.shields.io/github/stars/juftin/llm-term)](https://github.com/juftin/llm-term)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/llm-term)](https://pypi.python.org/pypi/llm-term/)
 
-Welcome to `llm-term` 💬, a command line utility that allows you to chat with OpenAI's GPT models directly 
-from the comfort of your command line. This tool uses the OpenAI API to facilitate real-time conversations 
-with GPT models. It enhances the user experience by streaming responses as rich text, complete with 
-code-formatting and syntax highlighting. This makes `llm-term` a powerful tool for anyone looking to interact 
-with OpenAI's GPT models in a more hands-on, streamlined manner. Get started with `pipx install llm-term`.
+Welcome to `llm-term` 💬, a command line utility that allows you to chat with LLM models directly 
+from the comfort of your command line - this includes OpenAI (ChatGPT), Anthropic, and more. This tool leerages 
+Langchain to facilitate real-time conversations with LLM models. It enhances the user experience by streaming 
+responses as rich text, complete with code-formatting and syntax highlighting. This makes `llm-term` a 
+powerful tool for anyone looking to interact with LLM models in a more hands-on, streamlined manner. 
+Get started with `pipx install llm-term`.
 
 ### [hatch-pip-compile](https://github.com/juftin/hatch-pip-compile)
 
