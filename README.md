@@ -1,20 +1,25 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/juftin/juftin/main/static/justin_flannery.png" 
+<img src="https://raw.githubusercontent.com/juftin/juftin/main/static/justin_flannery.png"
   width="250" height="250"  alt="juftin logo">
 </p>
 
 ## Hey, I'm juftin (Justin Flannery) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-I'm a software engineer and Python developer based out of Denver, Colorado, USA.
+I'm a software engineer and Python developer based out of Denver, Colorado, USA
+with a focus on data engineering and machine learning operations.
 
-My work with data has spanned from being on the front lines building out Tableau reports to
-architecting machine learning recommendation systems. Currently, I work as part of an software
-engineering team looking to make heart attacks a thing of the past using machine learning. I'm very
-interested in machine learning operations, big data engineering, distributed systems, and everything
-open source.
+My work with data has spanned from being on the front lines as an analyst and data
+scientist, building out data platforms, architecting machine learning recommendation
+systems, and working on scalable applications as a backend and platform engineer.
+Currently, I work as part of a software engineering team looking to make heart
+attacks a thing of the past using machine learning.
 
-When I'm not coding you can find me camping with my partner and our two dogs, catching a bluebird
-day skiing in Colorado, or soaking up the sun at a bluegrass concert.
+I’m very interested in machine learning operations (MLOps), big data engineering,
+distributed systems, large language models, and everything open source.
+
+When I’m not coding you can find me camping with my partner and our two dogs,
+catching a bluebird day skiing in Colorado, or soaking up the sun at a
+bluegrass concert.
 
 > Now is better than never.
 >
@@ -48,21 +53,22 @@ You can install camply easily via `pip install camply`.
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/browsr)](https://pypi.python.org/pypi/browsr/)
 
 `browsr` 🗂️ is a pleasant file explorer in your terminal. It's a command line TUI application
-that empowers you to browse the contents of local and remote directories with your keyboard or 
+that empowers you to browse the contents of local and remote directories with your keyboard or
 mouse. You can quickly navigate through directories and peek at files whether they're hosted
-locally, in AWS S3, Google Cloud Storage, or Azure Blob Storage. View code files with syntax 
+locally, in AWS S3, Google Cloud Storage, or Azure Blob Storage. View code files with syntax
 highlighting, format JSON files, render images, convert CSV and Parquet files to datatables
 and more. Get going with all of `browsr`'s superpowers with `pipx install "browsr[all]"`.
 
 ### [llm-term](https://github.com/juftin/llm-term)
+
 [![PyPI](https://img.shields.io/pypi/v/llm-term?color=blue&label=🤖%20llm-term)](https://github.com/juftin/llm-term)
 [![GitHub Repo stars](https://img.shields.io/github/stars/juftin/llm-term)](https://github.com/juftin/llm-term)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/llm-term)](https://pypi.python.org/pypi/llm-term/)
 
-Welcome to `llm-term` 💬, a command line utility that allows you to chat with LLM models directly 
-from the comfort of your command line - this includes OpenAI (ChatGPT), Anthropic, and more. This tool leverages 
-Langchain and Rich to facilitate real-time conversations with LLM models in your terminal. It enhances the 
-user experience by streaming responses as rich text, complete with code-formatting and syntax highlighting. 
+Welcome to `llm-term` 💬, a command line utility that allows you to chat with LLM models directly
+from the comfort of your command line - this includes OpenAI (ChatGPT), Anthropic, and more. This tool leverages
+Langchain and Rich to facilitate real-time conversations with LLM models in your terminal. It enhances the
+user experience by streaming responses as rich text, complete with code-formatting and syntax highlighting.
 Get started with `pipx install llm-term` and stay on the command line!
 
 ### [hatch-pip-compile](https://github.com/juftin/hatch-pip-compile)
@@ -90,20 +96,22 @@ Lunch Money Developer API. It’s built on top of pydantic, it offers an intuiti
 complete coverage of all endpoints and plugins to other external services.
 
 ### [cookiecutter-python](https://github.com/juftin/cookiecutter-python)
-My personal cookiecutter template 🚀, might be your new secret weapon for Python projects. 
-It's an all-in-one development toolkit that operates seamlessly in your coding environment. 
-Imagine managing your project's virtual environment and development tools with `hatch`, 
-effortlessly formatting and linting your masterpiece with `ruff`, 
+
+My personal cookiecutter template 🚀, might be your new secret weapon for Python projects.
+It's an all-in-one development toolkit that operates seamlessly in your coding environment.
+Imagine managing your project's virtual environment and development tools with `hatch`,
+effortlessly formatting and linting your masterpiece with `ruff`,
 and checking types using `mypy`. Literally all of the CI/CD details have been taken care of.
-Unleash the full potential of your Python project with juftin's personal cookiecutter 
+Unleash the full potential of your Python project with juftin's personal cookiecutter
 template. Get started with `cookiecutter gh:juftin/cookiecutter-python`.
 
 ### [zoo](https://github.com/juftin/zoo)
-The `zoo` project 🦁🐼🐨, an asynchronous zoo API powered by FastAPI, SQLAlchemy 2.0, 
-Pydantic v2, and Alembic. `zoo` is a simple yet robust API example that allows you to manage 
-a zoo. It utilizes modern tools and practices, including a production-ready server (Uvicorn), 
-modern SQL ORM (SQLAlchemy 2.0), data validation (Pydantic v2), and database migrations (Alembic). 
-This project serves as an excellent starting point for building your own API, outlining the 
+
+The `zoo` project 🦁🐼🐨, an asynchronous zoo API powered by FastAPI, SQLAlchemy 2.0,
+Pydantic v2, and Alembic. `zoo` is a simple yet robust API example that allows you to manage
+a zoo. It utilizes modern tools and practices, including a production-ready server (Uvicorn),
+modern SQL ORM (SQLAlchemy 2.0), data validation (Pydantic v2), and database migrations (Alembic).
+This project serves as an excellent starting point for building your own API, outlining the
 basic structure of an API project and providing examples of implementing common features.
 
 ### [homelab](https://github.com/juftin/homelab)
@@ -115,10 +123,11 @@ includes everything you needto host a website for your friends and
 family to request new content be downloaded, services to find and securely download the latest
 movies and shows, and underneath it all a Plex media server to support playback of the content
 anywhere and on any device. Homelab evolved out of the [media-center](https://github.com/juftin/media-center)
-project and most of the documentation hasn't been migrated yet. 
+project and most of the documentation hasn't been migrated yet.
 
-___________
-___________
+---
+
+---
 
 [<p align="center"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" width="100"  alt="juftin logo"> </p>](https://www.linkedin.com/in/justinflannery/)
 
