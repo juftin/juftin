@@ -5,8 +5,8 @@
 
 ## Hey, I'm juftin (Justin Flannery) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-I'm a software engineer and Python developer based out of Denver, Colorado, USA
-with a focus on data engineering and machine learning operations.
+I'm a software engineer and Python developer with a focus on data engineering
+and machine learning operations - based out of Denver, Colorado, USA.
 
 My work with data has spanned from being on the front lines as an analyst and data
 scientist, building out data platforms, architecting machine learning recommendation
