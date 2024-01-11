@@ -1,7 +1,9 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/juftin/juftin/main/static/justin_flannery.png"
-  width="250" height="250"  alt="juftin logo">
-</p>
+<a href="https://github.com/juftin">
+    <p align="center">
+    <img src="https://raw.githubusercontent.com/juftin/juftin/main/static/justin_flannery.png"
+      width="250" height="250"  alt="juftin logo">
+    </p>
+</a>
 
 ## Hey, I'm juftin (Justin Flannery) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
@@ -129,6 +131,14 @@ project and most of the documentation hasn't been migrated yet.
 
 ---
 
-[<p align="center"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" width="100"  alt="juftin logo"> </p>](https://www.linkedin.com/in/justinflannery/)
+<a href="https://www.linkedin.com/in/justinflannery/">
+  <p align="center">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" width="100" alt="juftin logo">
+  </p>
+</a>
 
-[<p align="center" ><img src="https://raw.githubusercontent.com/juftin/juftin/main/static/juftin.png" width="120" height="120"  alt="juftin logo"> </p>](https://github.com/juftin)
+<a href="https://juftin.com/">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/juftin/juftin/main/static/juftin.png" width="120" height="120" alt="juftin logo">
+  </p>
+</a>
