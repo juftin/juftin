@@ -46,7 +46,7 @@ APIs of Booking Services like https://recreation.gov (which works on thousands o
 the USA) to continuously check for cancellations and availabilities to pop up. Once a campsite
 becomes available, `camply` sends you a notification to book your spot!
 
-You can install camply easily via `pip install camply`.
+You can install camply easily via **`pipx install camply`**.
 
 ### [browsr](https://github.com/juftin/browsr)
 
@@ -59,7 +59,7 @@ that empowers you to browse the contents of local and remote directories with yo
 mouse. You can quickly navigate through directories and peek at files whether they're hosted
 locally, in AWS S3, Google Cloud Storage, or Azure Blob Storage. View code files with syntax
 highlighting, format JSON files, render images, convert CSV and Parquet files to datatables
-and more. Get going with all of `browsr`'s superpowers with `pipx install "browsr[all]"`.
+and more. Get going with all of `browsr`'s superpowers with **`pipx install "browsr[all]"`**.
 
 ### [llm-term](https://github.com/juftin/llm-term)
 
@@ -71,7 +71,7 @@ Welcome to `llm-term` 💬, a command line utility that allows you to chat with 
 from the comfort of your command line - this includes OpenAI (ChatGPT), Anthropic, and more. This tool leverages
 Langchain and Rich to facilitate real-time conversations with LLM models in your terminal. It enhances the
 user experience by streaming responses as rich text, complete with code-formatting and syntax highlighting.
-Get started with `pipx install llm-term` and stay on the command line!
+Get started with **`pipx install llm-term`** and stay on the command line!
 
 ### [hatch-pip-compile](https://github.com/juftin/hatch-pip-compile)
 
@@ -97,6 +97,15 @@ and my current tool of choice to manage my finances. `lunchable` 🍱 is a Pytho
 Lunch Money Developer API. It’s built on top of pydantic, it offers an intuitive API, a simple CLI,
 complete coverage of all endpoints and plugins to other external services.
 
+### [dotfiles](https://github.com/juftin/dotfiles)
+
+`dotfiles` 🌈 is a collection of my personal dotfiles for `macOS`, `Linux`, `zsh`, and 
+_everything else_. It's a set of configuration files with an opinionated set of tools and
+configurations based on my personal preferences. `dotfiles` are a personal preference so if 
+my files aren't for you, you'll enjoy the `dev-setup` 📔 documentation which helps you 
+get up and running on your own `macOS` or `Linux` machine. 
+`dotfiles` can be installed with **`curl -fsSL https://juftin.com/dotfiles/get | bash`**.
+
 ### [cookiecutter-python](https://github.com/juftin/cookiecutter-python)
 
 My personal cookiecutter template 🚀, might be your new secret weapon for Python projects.
@@ -105,7 +114,7 @@ Imagine managing your project's virtual environment and development tools with `
 effortlessly formatting and linting your masterpiece with `ruff`,
 and checking types using `mypy`. Literally all of the CI/CD details have been taken care of.
 Unleash the full potential of your Python project with juftin's personal cookiecutter
-template. Get started with `cookiecutter gh:juftin/cookiecutter-python`.
+template. Get started with **`cookiecutter gh:juftin/cookiecutter-python`**.
 
 ### [zoo](https://github.com/juftin/zoo)
 
