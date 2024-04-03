@@ -133,8 +133,7 @@ application that supports every aspect of hosting your own media server at home.
 includes everything you needto host a website for your friends and
 family to request new content be downloaded, services to find and securely download the latest
 movies and shows, and underneath it all a Plex media server to support playback of the content
-anywhere and on any device. Homelab evolved out of the [media-center](https://github.com/juftin/media-center)
-project and most of the documentation hasn't been migrated yet.
+anywhere and on any device.
 
 ---
 
