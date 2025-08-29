@@ -13,7 +13,7 @@ and machine learning operations - based out of Denver, Colorado, USA.
 My work with data has spanned from being on the front lines as an analyst and data
 scientist, building out data platforms, architecting machine learning recommendation
 systems, and working on scalable applications as a backend and platform engineer.
-Currently, I work as part of a engineering team working building clinical software products
+Currently, I work as part of an engineering team building clinical software products
 with AI and machine learning.
 
 I’m very interested in machine learning operations (MLOps), big data engineering,
